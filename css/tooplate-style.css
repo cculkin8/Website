@@ -10,7 +10,7 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 19px;
   font-weight: 300;
-  color: #4B4D5A;
+  color: ivory;
   position: relative;
 }
 
@@ -24,7 +24,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/IMG_1644.jpg);
+  background-image: url(../img/IMG_2215.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -115,7 +115,7 @@ p {
 }
 
 .product {
-  background: transparent;
+  background-color: rgba(0, 0, 0, 0.6);
   transition: all 0.3s ease;
 }
 
@@ -206,7 +206,7 @@ p {
 }
 
 .details__bg--down {
-  background: #4B4D5A;
+  background: #2c2a35;
   color: ivory;
 }
 
