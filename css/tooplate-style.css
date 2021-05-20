@@ -10,7 +10,7 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 19px;
   font-weight: 300;
-  color: white;
+  color: #4B4D5A;
   position: relative;
 }
 
@@ -24,7 +24,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/pop-bg.jpg);
+  background-image: url(../img/IMG_1644.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -206,7 +206,8 @@ p {
 }
 
 .details__bg--down {
-  background: #2c2a35;
+  background: #4B4D5A;
+  color: ivory;
 }
 
 .details__bg {
